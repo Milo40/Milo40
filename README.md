@@ -1,4 +1,4 @@
-  <h2>Visitors Count</h2>
+  <h2>Globally...</h2>
   <!-- Views Count -->
   <img src="https://komarev.com/ghpvc/?username=Milo40&color=328fa8&label=Nb_Views_Cnt()" alt="Views Cout">
   <br>
