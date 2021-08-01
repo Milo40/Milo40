@@ -1,11 +1,11 @@
 <center>
   
-  ###Views Count
+  <!-- Views Count -->
   <img src="https://komarev.com/ghpvc/?username=Milo40&color=328fa8&label=Nb_Views_Cnt()" alt="Views Cout">
   <br>
   <br>
   
-  ###Stats
+  <!-- Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Milo40&count_private=true&show_icons=true&theme=prussian" />
   
 <!--
