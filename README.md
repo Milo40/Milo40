@@ -1,7 +1,8 @@
   <h2>Globally...</h2>
   <!-- Views Count -->
-  <img src="https://komarev.com/ghpvc/?username=Milo40&color=328fa8&label=Nb_Views_Cnt()" alt="Views Cout">
+  <img src="https://komarev.com/ghpvc/?username=Milo40&color=328fa8&label=Views_Cnt()" alt="Views Cout">
   <br>
+  <img src="https://badgen.net/badge/:tech/:on/:color?icon=github">
   <br>
   
   <h2>Some Stats</h2>
