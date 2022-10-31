@@ -1,27 +1,22 @@
+<div 
+     align="center">
+ <img 
+     src="./assets/gh_header.image.png"
+     alt="heading_image" />
+</div>
+
 #
 
-![Header](./assets/gh_header.image.png)
-
-#
-
-<div
-align="center"
-style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
-<div
-align="left">
 <img
-src="https://img.shields.io/github/last-commit/Milo40/Milo40.svg?style=for-the-badge"/>
-</div>
-
-<div
-align="right">
- <a
-href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40">
-<img
-src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40&label=Views&labelColor=%23697689&countColor=%23068ce9&style=flat-square&labelStyle=upper"/>
- </a>
-</div>
-</div>
+     src="https://img.shields.io/github/last-commit/Milo40/Milo40.svg?style=for-the-badge" 
+     alt="last_commit"/>
+<a
+   href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40">
+ <img
+      align="right"
+      src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40&label=Views&labelColor=%23697689&countColor=%23068ce9&style=flat-square&labelStyle=upper"
+      alt="views"/>
+</a>
 
 #
 
