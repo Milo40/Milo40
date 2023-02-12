@@ -12,7 +12,7 @@
      alt="last_commit"/>
 <a
    href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40">
- <img
+<img
       align="right"
       src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMilo40%2FMilo40&label=Views&labelColor=%23697689&countColor=%23068ce9&style=flat-square&labelStyle=upper"
       alt="views"/>
@@ -40,5 +40,13 @@
     █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
     █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
     ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+
+---
+
+| ![In a nutshell][sum] | ![Top Languages by Commit][most-commit-language] |
+| --------------------- | ------------------------------------------------ |
+
+[sum]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milo40&theme=nord_dark
+[most-commit-language]: https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milo40&theme=nord_dark
 
 #Todo : Add Some Content Here.
