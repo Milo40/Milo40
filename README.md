@@ -28,7 +28,7 @@ src="./assets/gh_header.image.png">
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:milo.lontsi@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/miloxlontsi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milo4lontsi@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Milo_40)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pf1x3r)
 [![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](http://live.xbox.com/Profile?Gamertag=Milo40#1803)
 
 #
